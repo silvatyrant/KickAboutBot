@@ -1,2 +1,2 @@
 # KickAboutBot
-A bot for planning "kick about" football games.
+A Telegram bot for planning "kick about" football games.
